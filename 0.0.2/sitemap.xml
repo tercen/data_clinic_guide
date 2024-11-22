@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://tercen.com/0.0.2/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tercen.com/0.0.2/01_data_cleaning/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tercen.com/0.0.2/02_data_uploading/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tercen.com/0.0.2/03_data_wrangling/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://tercen.com/0.0.2/04_correlation/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+</urlset>
