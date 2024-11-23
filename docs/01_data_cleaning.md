@@ -16,8 +16,11 @@ Data needs to be in a table structure: Columns and Rows, where each Column has a
 
 ## Number Formats
 
-* Numbers should use decimal with dots "." (Note: for some European regions, Excel will use the comma `,` for decimals
+* Numbers should use decimal with dots "."
 * Numbers should not have commas in them
+
+>:warning: for European regions (e.g., Germany, Netherlands), Excel will use the comma `,` for decimals
+
 
 ## Missing values
 
