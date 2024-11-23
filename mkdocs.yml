@@ -104,22 +104,9 @@ extra:
   version:
     provider: mike
 
-
-
-
-
-
-
-
-#nav:
-#  - Home: index.md
-#  - Getting started:
-#      - Guidelines: intro_guidelines.md
-#      - Getting started:
-#          - Core concepts: getting-started_core-concepts.md
-#          - Setting up Tercen Studio:    getting-started_setup-tercen-studio.md
-#      - R Operator development:
-#          - General workflow: operator-dev_intro.md
-#          - "Walkthrough example: R operator": operator-dev_create.md
-#          - Deploying an R operator:   operator-dev_deploy.md
-#          - Improving an operator:   operator-dev_improve.md
+nav:
+  - Introduction: index.md
+  - Data Cleaning: 01_data_cleaning.md
+  - Data Uploading: 02_data_cleaning.md
+  - Data Wrangling: 03_data_wranging.md
+  - Correlation: 04_correlation.md
