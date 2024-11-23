@@ -19,8 +19,7 @@ Data needs to be in a table structure: Columns and Rows, where each Column has a
 * Numbers should use decimal with dots "."
 * Numbers should not have commas in them
 
->:warning: for European regions (e.g., Germany, Netherlands), Excel will use the comma `,` for decimals
-
+>:warning: Microsoft Excel will use the comma `,` for decimals for users in some European regions (e.g., Germany, Netherlands).
 
 ## Missing values
 
