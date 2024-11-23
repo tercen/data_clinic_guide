@@ -21,6 +21,10 @@ Data needs to be in a table structure: Columns and Rows, where each Column has a
 
 >:warning: Microsoft Excel will use the comma `,` for decimals for users in some European regions (e.g., Germany, Netherlands).
 
+!!! note ""
+
+Microsoft Excel will use the comma `,` for decimals for users in some European regions (e.g., Germany, Netherlands).
+
 ## Missing values
 
 * Replace the missing value characters (e.g., `NA`, `NaN`, `n/a`) with empty values, i.e., remove them
