@@ -1,12 +1,13 @@
 # Data Cleaning
 
-Here are the primary considerations
-* Tabular Structure
-* Number formats
-* Missing values
+Here are the primary considerations.
+
+* Make sure data has a tabular Structure
+* Make sure data has the proper format for Numbers
+* Make sure missing values are kept empty
 
 ## Tabular
-Data needs to be tabular
+Data needs to be tabular.
 
 * No empty rows 
 * No empty columns
