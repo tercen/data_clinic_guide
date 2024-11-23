@@ -105,7 +105,7 @@ extra:
     provider: mike
 nav:
   - Introduction: index.md
-  - Data Cleaning: 01_data_cleaning.md
-  - Data Uploading: 02_data_cleaning.md
-  - Data Wrangling: 03_data_wranging.md
-  - Correlation: 04_correlation.md
+      - Data Cleaning: 01_data_cleaning.md
+      - Data Uploading: 02_data_uploading.md
+      - Data Wrangling: 03_data_wrangling.md
+      - Correlation: 04_correlation.md
