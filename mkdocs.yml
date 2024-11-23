@@ -103,7 +103,6 @@ markdown_extensions:
 extra:
   version:
     provider: mike
-
 nav:
   - Introduction: index.md
   - Data Cleaning: 01_data_cleaning.md
