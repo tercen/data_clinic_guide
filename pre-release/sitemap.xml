@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tercen.com/pre-release/</loc>
-         <lastmod>2024-11-23</lastmod>
+         <lastmod>2024-11-24</lastmod>
     </url>
     <url>
          <loc>https://tercen.com/pre-release/01_data_cleaning/</loc>
-         <lastmod>2024-11-23</lastmod>
+         <lastmod>2024-11-24</lastmod>
     </url>
     <url>
          <loc>https://tercen.com/pre-release/02_data_uploading/</loc>
-         <lastmod>2024-11-23</lastmod>
+         <lastmod>2024-11-24</lastmod>
     </url>
     <url>
          <loc>https://tercen.com/pre-release/03_data_wrangling/</loc>
-         <lastmod>2024-11-23</lastmod>
+         <lastmod>2024-11-24</lastmod>
     </url>
     <url>
          <loc>https://tercen.com/pre-release/04_correlation/</loc>
-         <lastmod>2024-11-23</lastmod>
+         <lastmod>2024-11-24</lastmod>
     </url>
 </urlset>
