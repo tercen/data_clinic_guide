@@ -104,7 +104,7 @@ extra:
   version:
     provider: mike
 nav:
-  - Notes:
+  - 
       - Introduction: index.md
       - Data Cleaning: 01_data_cleaning.md
       - Data Uploading: 02_data_uploading.md
